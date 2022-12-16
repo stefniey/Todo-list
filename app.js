@@ -61,3 +61,4 @@ app.post("/update", function (req, res) {
 app.listen(500, function (req, res) {
   console.log("Server is running on port 500");
 });
+
